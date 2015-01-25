@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">阴影测试</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            这是一个阴影演示程序，可以改变View在Z轴的位置
+            
+        
+        ]]>
+    </string>
+</resources>
